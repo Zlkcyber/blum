@@ -1,5 +1,6 @@
 # bot blum
-- register: t.me/BlumCryptoBot/app?startapp=ref_QS9ycfOdUe (8 slot left) 
+
+- register: [**@BlumCryptoBot**](https://t.me/BlumCryptoBot/app?startapp=ref_QS9ycfOdUe) (8 slot left) 
 
 
 # how to crot
